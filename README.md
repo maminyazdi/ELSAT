@@ -20,7 +20,7 @@ ELSAT is a Python program designed to synchronize two event logs and abstract th
 
 1. Clone the repository:
 \```bash
-git clone https://github.com/user/elsat.git
+git clone https://github.com/maminyazdi/elsat.git
 \```
 
 2. Navigate to the cloned directory:
